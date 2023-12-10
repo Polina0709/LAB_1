@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  FiguresOnThePlane
-//
-//  Created by Polya Melnik on 10.12.2023.
-//
-
 #include <iostream>
 #include <cmath>
 #include <vector>
